@@ -1,0 +1,28 @@
+name: Elenikoureas
+favicon: null
+layout_spectrum: 0.7164814930874854
+typography_spectrum: 0.3030260452069342
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3626690087839961
+  lightness: 0.891003594500944
+  saturation: 0.18350824736990035
+  rhythmicContrast: 0.384088939987123
+purpose: []
